@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<string.h>
 
-//Função que recebe um nome e retorna o devolve o nome invertido
+//Função que recebe um nome e retorna o nome invertido
 
 char* inverter(char vet[]){
     int i, fim, tam = strlen(vet);
